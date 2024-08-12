@@ -1,0 +1,14 @@
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+c:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
