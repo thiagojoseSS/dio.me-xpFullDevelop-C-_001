@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj",
-      "projectName": "ExemploFundamento.Common",
-      "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+      "projectName": "ExemploFundamentos.Common",
+      "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
       "packagesPath": "C:\\Users\\Thiago SUPEEER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamento.Common\\obj\\",
+      "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago SUPEEER\\AppData\\Roaming\\NuGet\\NuGet.Config"

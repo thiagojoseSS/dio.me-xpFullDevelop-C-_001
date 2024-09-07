@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
-        "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectName": "ExemploFundamentos.Common",
+        "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\Thiago SUPEEER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thiago SUPEEER\\AppData\\Roaming\\NuGet\\NuGet.Config"

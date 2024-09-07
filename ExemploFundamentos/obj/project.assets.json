@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\Thiago SUPEEER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Thiago SUPEEER\\Documents\\Projetos .NET\\XP full developer - DIO\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago SUPEEER\\AppData\\Roaming\\NuGet\\NuGet.Config"
