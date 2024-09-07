@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
-using ExemploFundamentos.Models;
+using ExemploFundamentos.Common.Models;
 
 Pessoal pessoa = new Pessoal();
 
