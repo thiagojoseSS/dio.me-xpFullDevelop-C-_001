@@ -1,0 +1,12 @@
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.deps.json
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.sourcelink.json
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Thiago SUPEEER\Documents\Projetos .NET\XP full developer - DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll
