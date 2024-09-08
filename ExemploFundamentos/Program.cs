@@ -15,6 +15,8 @@ for (int contador = 0; contador < arrayInteiros.Length; contador++)
     Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
 }
 
+Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
 Console.WriteLine("Exemplo Foreach:");
 int contadorForeach = 0;
 foreach (int valor in arrayInteiros) {
